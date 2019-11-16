@@ -1,2 +1,2 @@
 # LaTeX-Explore
-in this repor me Explore LaTex, this exploration i suer TexStudio and maybe have comparasion with TexMaker maybe.
+in this repo me Explore LaTex, this exploration i use TexStudio and maybe have comparasion with TexMaker maybe.
